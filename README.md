@@ -22,6 +22,6 @@ This application is used to learn but not limited to;
 - recieve email when event is deleted
 - recieve email for change to event date or time.
 
--make more separe projects for different parts of the application
+- make more separe projects for different parts of the application
    - email handling
    - service
