@@ -1,6 +1,7 @@
 # Events
-This is an events scheduler backend
-This is a learing application used to learn;
+This is an events scheduler backend api
+
+This application is used to learn but not limited to;
 - Clean architecture
 - Dependency injection
 - Dependency injection container
@@ -20,3 +21,7 @@ This is a learing application used to learn;
 - recieve email for event created
 - recieve email when event is deleted
 - recieve email for change to event date or time.
+
+-make more separe projects for different parts of the application
+   - email handling
+   - service
