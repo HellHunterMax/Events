@@ -16,7 +16,7 @@ This is a learing application used to learn;
 
 
 #TODO
-[] Create links to add or remove yourself from an event with the email you recieve.
-[] recieve email for event created
-[] recieve email when event is deleted
-[] recieve email for change to event date or time.
+- Create links to add or remove yourself from an event with the email you recieve.
+- recieve email for event created
+- recieve email when event is deleted
+- recieve email for change to event date or time.
